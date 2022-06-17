@@ -1,0 +1,30 @@
+# Project 3: Library Of Books
+
+* Author: Lindsey Kim
+* Class: CS121 Section #035
+* Semester: Summer 2020
+
+## Overview
+
+This Java application creates a library and allows for the user to print the contents of the library and add, delete, and read books.
+
+## Compiling and Using
+
+To compile, execute the following command in the main project directory:
+```
+$ javac LibraryOfBooks.java
+```
+
+Run the compiled class with the command:
+```
+$ java LibraryOfBooks
+```
+
+## Sources used
+
+I found out how to check if a string is null using tutorialspoint.com.
+[Check if a String is empty("") or null in Java](https://www.tutorialspoint.com/check-if-a-string-is-empty-or-null-in-java)
+I looked at the Integer class methods on docs.oracle.com.
+[Class Integer](https://docs.oracle.com/javase/7/docs/api/java/lang/Integer.html)
+I looked at the File class methods on docs.oracle.com.
+[Class File](https://docs.oracle.com/javase/7/docs/api/java/io/File.html)
