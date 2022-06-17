@@ -1,0 +1,29 @@
+# Project 0: Traffic Animation
+
+* Author: Lindsey Kim
+* Class: CS121 Section #035
+* Semester: Summer 2020
+
+## Overview
+
+This Java application creates an animation of a car moving across a screen. It features a bystander that watches and comments on its speed.
+
+
+## Compiling and Using
+
+To compile, execute the following command in the main project directory:
+```
+$ javac TrafficAnimation.java
+```
+
+Run the compiled class with the command:
+```
+$ java TrafficAnimation
+```
+
+## Sources used
+
+I found out how to write code for the array using  stackoverflow.com.
+[How do I declare and initiate an array in Java?](https://stackoverflow.com/questions/1200621/how-do-i-declare-and-initialize-an-array-in-java)
+I found out how to set font using stackoverflow.com
+[How to set String's font size, style in Java using the Font class?](https://stackoverflow.com/questions/10630738/how-to-set-strings-font-size-style-in-java-using-the-font-class)

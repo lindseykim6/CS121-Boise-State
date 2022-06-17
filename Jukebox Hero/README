@@ -1,0 +1,31 @@
+
+# Project 2: Jukebox Hero
+
+* Author: Lindsey Kim
+* Class: CS121 Section #035
+* Semester: Summer 2020
+
+## Overview
+
+This Java application creates an analytical tool called "Jukebox Hero" that interacts with a customer's music catalog. 
+The tool is able to open the music catalog, print statistics about it, search for songs in it, and display it.
+
+
+## Compiling and Using
+
+To compile, execute the following command in the main project directory:
+```
+$ javac JukeboxHero.java
+```
+
+Run the compiled class with the command:
+```
+$ java JukeboxHero
+```
+
+## Sources used
+
+I looked at the the methods and properties of the ArrayList class on docs.oracle.com.
+[Class ArrayList<E.](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html)
+I looked at the methods of the String class on w3schools.com.
+[JavaScript String Reference](https://www.w3schools.com/jsref/jsref_obj_string.asp)
